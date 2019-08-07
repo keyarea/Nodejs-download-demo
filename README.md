@@ -1,5 +1,8 @@
 # express 下载文件示例
 
+
+![](https://img.shields.io/badge/express-v4.16.1-blue) ![](https://img.shields.io/badge/nodejs-v8.16.0-blue) ![](https://img.shields.io/badge/npm-v6.4.1-blue)
+
 ## 下载文件示例
 
 [下载文件示例](routes/index.js)中，指向download路径的为下载文件的示例
