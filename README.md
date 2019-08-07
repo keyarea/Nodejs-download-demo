@@ -30,6 +30,8 @@ npm run start
 
 > 下载文件
 
+> 注意：现已移除`王五.mp4`文件，请自行将任意大文件拷贝至`public`文件夹下，进行测试，只需将`王五.mp4`替换为你的文件名。
+
 在chrome浏览器中输入`localhost:3000/download/王五.mp4`测试下载文件的功能。
 
 在chrome浏览器中输入`localhost:3000/transfer/王五.mp4`测试断点续传的功能。
